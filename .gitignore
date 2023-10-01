@@ -1,0 +1,8 @@
+venv
+venv/*
+chk-point-dir
+chk-point-dir/*
+_spark_metadata
+_spark_metadata/*
+__pycache__
+__pycache__/*
